@@ -52,7 +52,7 @@ Quick Install
 
 ```bash
 # Clone repository
-git clone https://github.com/exploitarium/vulnx.git
+git clone https://github.com/expl0itlab/vulnx.git
 cd vulnx
 
 # Install dependencies
@@ -69,7 +69,7 @@ Docker Installation
 docker build -t vulnx .
 
 # Or use pre-built image
-docker pull exploitarium/vulnx:latest
+docker pull expl0itlab/vulnx:latest
 ```
 
 Usage
